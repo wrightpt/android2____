@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WebKit2Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/WebKit2Lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

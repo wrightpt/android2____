@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Mar 18 12:32:27 EDT 2017
+2.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_forward_holo_dark.png
+5.set=ANDROID_RESOURCE
+3.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+6.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_forward_disabled_holo_dark.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex
+5.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_back_holo_dark.png
+4.set=ANDROID_RESOURCE
+6.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+9.set=ANDROID_RESOURCE
+9.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+10.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main
+8.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libWebKit2.so
+3.set=NATIVE_RESOURCE
+1.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_back_disabled_holo_dark.png
+8.set=ANDROID_RESOURCE
+0.set=DEX

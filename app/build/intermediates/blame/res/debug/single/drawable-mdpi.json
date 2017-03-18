@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_forward_disabled_holo_dark.png",
+        "source": "/home/c/AndroidStudioProjects/android2/app/src/main/res/drawable-mdpi/ic_forward_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_back_holo_dark.png",
+        "source": "/home/c/AndroidStudioProjects/android2/app/src/main/res/drawable-mdpi/ic_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_forward_holo_dark.png",
+        "source": "/home/c/AndroidStudioProjects/android2/app/src/main/res/drawable-mdpi/ic_forward_holo_dark.png"
+    },
+    {
+        "merged": "/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_back_disabled_holo_dark.png",
+        "source": "/home/c/AndroidStudioProjects/android2/app/src/main/res/drawable-mdpi/ic_back_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/c/AndroidStudioProjects/android2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/c/AndroidStudioProjects/android2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
